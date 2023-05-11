@@ -3,6 +3,7 @@ title: "Clustering Protein Families"
 teaching: 20
 exercises: 5
 questions:
+- "New questions?"
 - "What is Get_Homologues?"
 - "What is Clustering?"
 - "Which are the clustering algorithms that use Get_Homologues?"
